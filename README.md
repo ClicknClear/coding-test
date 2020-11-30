@@ -22,11 +22,12 @@ The file contains a JSON object with the following structure:
 
 Write an application that serves a REST API allowing a client to query the contents of this file, as well as a basic web client to display the data.
 
-The APIs should be as follows:
-Given a track id return the associated track details.
-Given an artist name return the details of the associated tracks
+The API should support the following endpoints:
+- Given a track id return the associated track details.
+- Given an artist name return the details of the associated tracks
+
 **Notes:**
-Please write the API using NodeJS, but feel free to use any framework with which you are comfortable, such as Express or Fastify.
+Please write the API using NodeJS, using a framework such as Express or Fastify.
 
 Please provide a ReactJS web client to demonstrate how the API should be called and data should be displayed. Incorporation of a widget toolkit such as Bootstrap or Material UI is encouraged.
 
