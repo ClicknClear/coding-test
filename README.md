@@ -31,13 +31,13 @@ Please write the API using NodeJS, using a framework such as Express or Fastify.
 
 Please provide a ReactJS web client to demonstrate how the API should be called and data should be displayed. Incorporation of a widget toolkit such as Bootstrap or Material UI is encouraged.
 
-You may use any dependencies or libraries you wish. Using TypeScript on one or both portions of this exercise will score you extra credit!
+Please use TypeScript for each portion of this exercise. You may use any other dependencies or libraries you wish. Write the code in a professional manner as if it were something you were submitting for code review rather than as a toy exercise.
 
-The solution should be simple to build and run. Please commit the exercise to a GIT repository and provide a link to the repository when finished.
-
-Please write the application in a professional style rather than as a toy exercise.
+The solution should be simple to build and run, such as simply using npm run. Please commit the exercise to a GIT repository and provide a link to the repository when finished.
 
 The exercise will be evaluated on:
-- Correctness
-- Structure
-- Performance
+- Correct use of TypeScript
+- Code structure
+- Grasp of modern coding practices such as ES6
+- Performance of application
+- Any obvious bugs in the code
